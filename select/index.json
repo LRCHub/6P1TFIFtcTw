@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Bimbang",
+  "base_artist": "Melly",
+  "createdAt": "2026-03-01T15:47:57.393611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bimbang feat. Elvy Sukaesih & Mulan Jameela",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/01_Bimbang_feat._Elvy_Sukaesih_&_Mulan_Jameela_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/02_Bimbang_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Melly Goeslaw",
+      "has_synced": true,
+      "path": "select/03_Bimbang_Melly_Goeslaw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bimbang Dan Ragu",
+      "artist": "Kelompok Penerbang Roket",
+      "has_synced": true,
+      "path": "select/04_Bimbang_Dan_Ragu_Kelompok_Penerbang_Roket.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Andi Meriem Mattalatta",
+      "has_synced": true,
+      "path": "select/05_Bimbang_Andi_Meriem_Mattalatta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Goodbye Felicia",
+      "has_synced": true,
+      "path": "select/06_Bimbang_Goodbye_Felicia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Dewa 19 featuring Elvy Sukaesih & Mulan Jameela",
+      "has_synced": true,
+      "path": "select/07_Bimbang_Dewa_19_featuring_Elvy_Sukaesih_&_Mulan_Jameela.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Brisia Jodie",
+      "has_synced": true,
+      "path": "select/08_Bimbang_Brisia_Jodie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Goodbye Felicia",
+      "has_synced": true,
+      "path": "select/09_Bimbang_Goodbye_Felicia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Goodbye Felicia &amp; Stephanie Poetri",
+      "has_synced": true,
+      "path": "select/10_Bimbang_Goodbye_Felicia_&amp;_Stephanie_Poetri.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Melly Goeslaw",
+      "has_synced": false,
+      "path": "select/11_Bimbang_Melly_Goeslaw.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bimbang Tanpa Pegangan",
+      "artist": "Danilla",
+      "has_synced": true,
+      "path": "select/12_Bimbang_Tanpa_Pegangan_Danilla.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Rhoma Irama",
+      "has_synced": true,
+      "path": "select/13_Bimbang_Rhoma_Irama.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Elvy Sukaesih",
+      "has_synced": false,
+      "path": "select/14_Bimbang_Elvy_Sukaesih.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jangan Bimbang Dan Ragu",
+      "artist": "Koes Plus",
+      "has_synced": true,
+      "path": "select/15_Jangan_Bimbang_Dan_Ragu_Koes_Plus.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Marsha Milan",
+      "has_synced": true,
+      "path": "select/16_Bimbang_Marsha_Milan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Jangan Bimbang Walau Galau - Terus Berlari",
+      "artist": "Lyla",
+      "has_synced": false,
+      "path": "select/17_Jangan_Bimbang_Walau_Galau_-_Terus_Berlari_Lyla.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Gigi",
+      "has_synced": true,
+      "path": "select/18_Bimbang_Gigi.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bimbang",
+      "artist": "Melly Goeslaw",
+      "has_synced": true,
+      "path": "select/19_Bimbang_Melly_Goeslaw.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bimbang",
+      "artist": "Melly Goeslaw",
+      "has_synced": false,
+      "path": "select/pl_01_Bimbang_Melly_Goeslaw.txt"
+    }
+  ]
+}
